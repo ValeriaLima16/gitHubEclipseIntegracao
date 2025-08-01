@@ -5,7 +5,7 @@ public class TesteIntegracao {
 		System.out.println("Segunda Integração");
 		System.out.println("Terceira Integração");
 		System.out.println("Quarta Integração");
-		System.out.println("Quinta Integração, vindo do github");
+		System.out.println("Qfazendo alteração, vindo do github");
 		
 	}
 }
